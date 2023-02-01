@@ -2,7 +2,8 @@
 
 # 50K for a better planet🌎
 
-## VOOR CODE BEKIJK OFFICIELE REPOSITORY: https://github.com/Marwaxhello/better-planet-grrrr
+## VOOR CODE BEKIJK OFFICIELE REPOSITORY: 
+## https://github.com/Marwaxhello/better-planet-grrrr
 
 <img width="1500" alt="Screenshot 2023-01-26 at 00 00 44" src="https://user-images.githubusercontent.com/112861555/214711326-3b336e88-1821-46ff-a497-0ac610a9b2d6.png">
 
